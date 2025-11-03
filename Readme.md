@@ -4,7 +4,7 @@ A web-based simulation game offering engaging gameplay by integrating advanced i
 
 ## Live Demo
 
-[View Live Demo](https://your-live-demo-link.com)
+[View Live Demo](https://nitesh-shaw-098.github.io/Car-Crash/)
 
 ## Features
 
@@ -26,5 +26,6 @@ Simply open the game in your browser and start playing! No installation required
 ## Author
 
 Created by **niteshdev**.[1]
+
 
 ***
